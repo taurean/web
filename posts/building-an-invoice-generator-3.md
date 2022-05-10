@@ -1,10 +1,8 @@
 ---
-title: Building an Invoice Tool
+title: Building an Invoice Tool - Part 3
 date: 2022-05-09
 tags:
   - CSS
-  - HTML
-  - Javascript
 layout: layouts/post.njk
 ---
 
